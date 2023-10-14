@@ -1,3 +1,4 @@
 Chapter1
 Save data on the directory
-Nowa linie
+Nowa linia
+Zmiany dokonane na GitHab'ie
